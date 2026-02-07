@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at [Evans Policy Analysis and Research Group]([https://epar.evans.uw.edu/]). 
+I am a Postdoctoral Scholar at [Evans Policy Analysis and Research Group](https://epar.evans.uw.edu/). 
 
 A data-driven personal website
 ======
