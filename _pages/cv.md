@@ -19,9 +19,9 @@ Education
 Work experience
 ======
 * 2023-Present: Postdoctoral Scholar
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Evans Policy Analysis and Research 
+  * University of Washington 
+  * Seatlle, US
 
 * Fall 2015: Research Assistant
   * GitHub University
