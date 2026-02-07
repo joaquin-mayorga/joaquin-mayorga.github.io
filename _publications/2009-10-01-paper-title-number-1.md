@@ -1,14 +1,12 @@
 ---
 title: "Farm‐level agricultural productivity and adaptation to extreme heat"
-collection: publications
+collection: manuscripts
 category: conferences
 permalink: /publication/2026-extreme-heat
 excerpt: ''
 date: 2026-01-01
 venue: 'American Journal of Agricultural Economics'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1111/ajae.12509'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Mayorga, J., Villacis, A. H., & Mishra, A. K. (2026). &quot;Farm‐level agricultural productivity and adaptation to extreme heat.&quot; <i>American Journal of Agricultural Economics</i>. 108(1).'
 ---
 
