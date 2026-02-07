@@ -4,7 +4,7 @@ collection: publications
 category: articles
 permalink: /publication/2026-extreme-heat
 excerpt: ''
-date: 2026
+date: 2026-01-01
 venue: 'American Journal of Agricultural Economics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1111/ajae.12509'
