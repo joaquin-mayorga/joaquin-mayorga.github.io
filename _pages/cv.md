@@ -29,4 +29,4 @@ Work experience
     
 Service
 ======
-*Referee service*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Climatic Change, Journal of Development Studies, Agribusiness  
+*Referee service*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Agribusiness, Journal of Development Studies, Climatic Change. 
