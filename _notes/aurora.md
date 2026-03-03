@@ -9,8 +9,9 @@ layout: single
 
 2026
 -----
+Febrero 26: Golazo de volea Chito Amarilla contra Always Ready. 
 
-Febrero 14: Equipo viaja a Chimoré para partido con San Antonio. Queda varado en medio del camino por bloqueo de caminos. Mientras esperan levantamiento de bloqueo, [ jugadores entrenan sobre asfalto](https://www.facebook.com/share/r/173RCL2EVp/). 
+Febrero 14: Equipo viaja a Chimoré para partido con San Antonio. Queda varado en medio del camino por bloqueo de caminos. Mientras esperan levantamiento de bloqueo, [jugadores entrenan sobre asfalto](https://www.facebook.com/share/r/173RCL2EVp/). 
 
 2025
 -----
