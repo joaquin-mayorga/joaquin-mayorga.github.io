@@ -14,7 +14,7 @@ Febrero o marzo: Carnaval
     - Cuáles son los orígenes europeos y pre-colombinos del carnaval? 
     - Cuál es el significado de los bailes y vestimentas? 
     - Quiénes son los principales compositores? 
-- Hay un buen [video de Luisito Comunica](https://www.youtube.com/watch?v=mmzcECIJT7o&t=2s)sobre el Carnaval de Oruro. 
+- Hay un buen [video de Luisito Comunica](https://www.youtube.com/watch?v=mmzcECIJT7o&t=2s) sobre el Carnaval de Oruro. 
     - Los Uru-Uru fueron salvados por la virgen del Socavón de cuatro plagas: lagartos, sapos, hormigas, víboras. Que la virgen petrificó. 
     - La llamerada representa el arreo de las llamas. 
     - Traje de caporal de Caporales Centralistas con tres niveles: serpiente (submundo), jaguar (tierra), cóndor (cielo). 
