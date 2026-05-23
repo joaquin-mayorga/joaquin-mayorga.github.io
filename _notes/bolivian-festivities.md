@@ -3,12 +3,9 @@ title: "Festividades Bolivianas"
 date: 2026-02-16
 last_modified_at: 2026-02-16
 layout: single
+excerpt: "Carnaval, Todos Santos, y más."
 ---
 
-*Carnaval, Todos Santos, y más.*
-
-Enero o febrero: Alasitas
------
 
 Febrero o marzo: Carnaval
 -----

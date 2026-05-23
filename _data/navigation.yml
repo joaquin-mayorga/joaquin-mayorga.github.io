@@ -9,14 +9,14 @@
 
 main:
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Research"
     url: /publications/  
 
   - title: "Software"
-    url: /teaching/    
-
-  - title: "CV"
-    url: /cv/
+    url: /portfolio/    
         
   - title: "Blog Posts"
     url: /year-archive/

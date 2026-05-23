@@ -2,6 +2,9 @@
 
 <!-- start custom head snippets -->
 
+<!-- Force light mode: prevent main.min.js from applying dark theme -->
+<script>localStorage.setItem('theme','light');document.documentElement.removeAttribute('data-theme');</script>
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 

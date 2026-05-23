@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * 2023-Present: Postdoctoral Scholar
-  * Evans Policy Analysis and Research, University of Washington 
+  * Evans Policy Analysis and Research Group, University of Washington
 
 * 2017-2018: Research Analyst
   * ASBA
@@ -29,4 +29,10 @@ Work experience
     
 Service
 ======
-*Referee service*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Agribusiness, Journal of Development Studies, Climatic Change. 
+*Refereing*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Agribusiness, Journal of Development Studies, Climatic Change. 
+
+Presentations
+======
+*2026*: University of Washington School of Public Health \
+*2025*: Association for Public Policy Analysis and Management (Seattle, WA) \
+*2024*: Data for Policy (London, UK) 

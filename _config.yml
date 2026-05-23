@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Joaquin Mayorga"
   pronouns         : ""
-  bio              : "Postdoctoral Scholar at Evans Policy Analysis and Research Group"
+  bio              : "Postdoctoral Scholar at Evans Policy Analysis and Research Group (EPAR)"
   location         : "Seattle, US"
   employer         : "University of <br>Washington"
   uri              : ""
@@ -245,7 +245,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       author_profile: true
       read_time: true
       comments: true
@@ -285,6 +285,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: archive
+      author_profile: true
   # _talks
   - scope:
       path: ""
