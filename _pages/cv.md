@@ -29,7 +29,7 @@ Work experience
     
 Service
 ======
-*Refereing*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Agribusiness, Journal of Development Studies, Climatic Change. 
+*Refereing*: American Journal of Agricultural Economics, Ecological Economics, Applied Economic Perspectives and Policy, Journal of Applied Economics, Agribusiness, Journal of Development Studies, Climatic Change
 
 Presentations
 ======
