@@ -22,7 +22,7 @@ Work experience
   * Evans Policy Analysis and Research Group, University of Washington
 
 * 2017-2018: Research Analyst
-  * ASBA
+  * Association of Banking Supervisors of the Americas
 
 * 2011-2012: Junior Researcher
   * INESAD
