@@ -7,3 +7,5 @@ excerpt: "Notas sobre libros."
 ---
 
 Un fantasma recorre el mundo: Cómo funciona la máquina de guerra reaccionaria (y qué podemos hacer para enfrentarla), de Pablo Stefanoni 
+
+Las cosas que perdimos en el fuego, de Mariana Enriquez. 
