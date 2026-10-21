@@ -1,5 +1,5 @@
 ---
-title: "Festividades Bolivianas"
+title: "Festividades bolivianas"
 date: 2026-02-16
 last_modified_at: 2026-02-16
 layout: single
