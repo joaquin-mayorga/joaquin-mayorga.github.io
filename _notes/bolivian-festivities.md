@@ -20,7 +20,8 @@ Febrero o marzo: Carnaval
 - Preguntas: 
     - Cuáles son los orígenes europeos y pre-colombinos del carnaval? 
     - Cuál es el significado de los bailes y vestimentas? 
-    - Quiénes son los principales compositores? 
+    - Quiénes son los principales compositores?
+    - Cuál es la fórmula que define la fecha del carnaval cada año? 
 
 14 de agosto: Virgen de Urkupiña
 -----
