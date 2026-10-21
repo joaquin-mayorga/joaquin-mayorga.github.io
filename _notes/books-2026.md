@@ -6,8 +6,8 @@ layout: single
 excerpt: "Notas sobre libros."
 ---
 
-Un fantasma recorre el mundo: Cómo funciona la máquina de guerra reaccionaria (y qué podemos hacer para enfrentarla), Pablo Stefanoni 
+Pablo Stefanoni, *Un fantasma recorre el mundo: Cómo funciona la máquina de guerra reaccionaria (y qué podemos hacer para enfrentarla)*
 
-Aesthetics: A Very Short Introduction, Bence Nanay 
+Bence Nanay, *Aesthetics: A Very Short Introduction*
 
-Las cosas que perdimos en el fuego, Mariana Enriquez 
+Mariana Enriquez, *Las cosas que perdimos en el fuego*
