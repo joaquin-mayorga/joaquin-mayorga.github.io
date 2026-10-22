@@ -9,7 +9,7 @@ excerpt: "Carnaval, Todos Santos, y más."
 
 Febrero o marzo: Carnaval
 -----
-- El carnaval en Bolivia se celebra cada año del sábado al martes antes del miércoles de ceniza, que ocurre 40 días antes del viernes santo, que a su vez pasa dos días antes de la pascua. La fecha de carnaval en un año dado es variable y se computa el punto de referencia del 21 de marzo. Si encuentras la fecha de la primera luna llena en o después del 21 de marzo, es en el siguiente domingo cuando se celebra la Pascua.
+- El carnaval en Bolivia se celebra cada año del sábado al martes antes del miércoles de ceniza, que ocurre 46 días antes de la pascua. La fecha anual de la pascua varia año a año y se computa así: i) encontrar el 21 de marzo, ii) en ese día y posteriores, hallar la primera luna llena, y iii) en días pos esa luna llena, encontrar el primer domingo. Es en ese domingo cuando se celebra la pascua. Es por ese cómputo de la iglesia católica que la fecha del carnaval es variable.  
 - Hay un buen [video de Luisito Comunica](https://www.youtube.com/watch?v=mmzcECIJT7o&t=2s) sobre el Carnaval de Oruro. 
     - Los Uru-Uru fueron salvados por la virgen del Socavón de cuatro plagas: lagartos, sapos, hormigas, víboras. Que la virgen petrificó. 
     - La llamerada representa el arreo de las llamas. 
