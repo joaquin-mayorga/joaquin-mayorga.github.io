@@ -6,10 +6,8 @@ layout: single
 excerpt: "Notas sobre libros."
 ---
 
----
 ### Pablo Stefanoni, *Un fantasma recorre el mundo: Cómo funciona la máquina de guerra reaccionaria (y qué podemos hacer para enfrentarla)*
 
----
 ### Bence Nanay, *Aesthetics: A Very Short Introduction*  
 
 The book begins by providing a definition of aesthetics as a discipline: the study of sensory experiences. Reading that, I suspected that the rest of the book would review the main ideas expressed in a canonical bibliography of the discipline of aesthetics. Instead, it discusses what are and aren’t the characteristics of what the author calls the aesthetic experience. That discussion, I believe, can be summarized into a definition of aesthetic experience that states as follows: <br>
@@ -19,5 +17,4 @@ The book begins by providing a definition of aesthetics as a discipline: the stu
 
 I enjoyed reading a collection of cool quotes that I won’t reproduce and a brief discussion of the role of the critic. The idea is that a good critic directs our attention to things that we would not have noted otherwise, as paying attention to those features can transform our (potentially aesthetic) experience of perceiving a work of art.
 
----
 ### Mariana Enriquez, *Las cosas que perdimos en el fuego*
