@@ -14,6 +14,6 @@ Bence Nanay, *Aesthetics: A Very Short Introduction*   <br>
 
 *Aesthetic experience is the pleasurable experience of paying open-ended and for-its-own-sake attention to the many surface and scene features of an object seen as beautiful, while at the same time paying attention to the qualities of this experience.* 
 
-Besides that summary and a collection of cool quotes that I won’t reproduce, one thing I found interesting about this book was a brief discussion of the role of the critic. The idea is that a good critic directs our attention to things that we would not have noted otherwise, as paying attention to those features can transform our (potentially aesthetic) experience of perceiving a work of art. </small>  
+I enjoyed reading a collection of cool quotes that I won’t reproduce and brief discussion of the role of the critic. The idea is that a good critic directs our attention to things that we would not have noted otherwise, as paying attention to those features can transform our (potentially aesthetic) experience of perceiving a work of art. </small>  
 
 Mariana Enriquez, *Las cosas que perdimos en el fuego*
