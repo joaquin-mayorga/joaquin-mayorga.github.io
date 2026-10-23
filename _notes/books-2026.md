@@ -9,7 +9,8 @@ small p { margin: 0.2em 0; }
 
 Pablo Stefanoni, *Un fantasma recorre el mundo: Cómo funciona la máquina de guerra reaccionaria (y qué podemos hacer para enfrentarla)*
 
-Bence Nanay, *Aesthetics: A Very Short Introduction*   <br>
+Bence Nanay, *Aesthetics: A Very Short Introduction*  
+
 <small> The book begins by providing a definition of aesthetics as a discipline: the study of sensory experiences. Reading that, I suspected that the rest of the book would review the main ideas expressed in a canonical bibliography of the discipline of aesthetics. Instead, it discusses what are and aren’t the characteristics of what the author calls the aesthetic experience. That discussion, I believe, can be summarized into a definition of aesthetic experience that states as follows: <br> </small>
 
 <small> *Aesthetic experience is the pleasurable experience of paying open-ended and for-its-own-sake attention to the many surface and scene features of an object seen as beautiful, while at the same time paying attention to the qualities of this experience.* <br> </small>
