@@ -16,5 +16,4 @@ Bence Nanay, *Aesthetics: A Very Short Introduction*
 
 Besides that summary and a collection of cool quotes that I won’t reproduce, one thing I found interesting about this book was a brief discussion of the role of the critic. The idea is that a good critic directs our attention to things that we would not have noted otherwise, as paying attention to those features can transform our (potentially aesthetic) experience of perceiving a work of art. </small>
 
-
 Mariana Enriquez, *Las cosas que perdimos en el fuego*
