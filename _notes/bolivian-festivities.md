@@ -5,7 +5,7 @@ last_modified_at: 2026-02-16
 layout: single
 excerpt: "Carnaval, Todos Santos, y más."
 ---
-
+Aquí anoto apuntes sobre festividades bolivianas, lo más bonito que tenemos. 
 
 Febrero o marzo: Carnaval
 -----
