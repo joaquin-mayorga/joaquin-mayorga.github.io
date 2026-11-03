@@ -34,7 +34,8 @@ Febrero o marzo: Carnaval
 - Los mexicanos tienen su pan de muertos; nosotros, la tantawawa.
 - Aquí está una [intro](https://cba.ucb.edu.bo/blog/todos-santos-una-calida-visita-desde-el-mas-alla/) útil aunque sub documentada a Todos Santos en mi ciudad natal, Cochabamba.
     - La festividad consiste en armar una mesa que represente tres áreas: Janaj Pacha, Kay Pacha y Ukhu Pacha, o mundo de arriba o las deidades, terrenal o los vivos, y de abajo o donde habitan las almas de los muertos. El propósito de la mesa es invitar a difuntos a visitar el Kay Pacha. La parte superior tiene un sol y luna para iluminar el trayecto del difunto del Ukhu al Kay Pacha. Los elementos individuales son: una escalera para que el difunto haga el trayecto; una llama y una canasta de caramelo para llevarse las comidas ofrendadas al Ukhu Pacha; la tantawawa que simboliza el cuerpo del difunto.
-    - Todos Santos coincide con el comienzo de las lluvias en Bolivia según el calendario agrícola. En el Ukhu Pacha, el calendario es diametralmente opuesto al del Kay Pacha, y es en Todos Santos cuando los difuntos suben al Kay Pacha a disfrutar su cosecha. 
+    - Todos Santos coincide con el comienzo de las lluvias en Bolivia según el calendario agrícola. En el Ukhu Pacha, el calendario es diametralmente opuesto al del Kay Pacha, y es en Todos Santos cuando los difuntos suben al Kay Pacha a disfrutar su cosecha.
+- Aquí está un [post de blog](https://projectes.fundesplai.org/cochabambasantjoandespi/2014/11/25/todo-santos-en-bolivia/) más detallado. 
 - Preguntas: 
     - Cuáles son los orígenes europeos y pre-colombinos de Todos Santos?
     - Cuáles son los parecidos entre Todos Santos en Bolivia y Día de Muertos en México?  
