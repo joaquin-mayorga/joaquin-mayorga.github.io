@@ -31,6 +31,10 @@ Febrero o marzo: Carnaval
 
 1 y 2 de noviembre: Todos Santos
 -----
+- Los mexicanos tienen su pan de muertos; nosotros, la tantawawa.
+- Aquí está una [intro](https://cba.ucb.edu.bo/blog/todos-santos-una-calida-visita-desde-el-mas-alla/) útil aunque sub documentada a Todos Santos en mi ciudad natal, Cochabamba. 
+- La festividad consiste en armar una mesa que represente tres áreas: Janaj Pacha, Kay Pacha y Ukhu Pacha, o mundo de arriba o las deidades, terrenal o los vivos, y de abajo o donde habitan las almas de los muertos. 
+- 
 - Preguntas: 
     - Cuáles son los orígenes europeos y pre-colombinos de Todos Santos?
     - Cuáles son los parecidos entre Todos Santos en Bolivia y Día de Muertos en México?  
