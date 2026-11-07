@@ -1,7 +1,7 @@
 ---
 title: "Personajes bolivianos"
-date: 2026-03-09
-last_modified_at: 2026-03-09
+date: 2026-11-06
+last_modified_at: 2026-11-06
 layout: single
 excerpt: "Evo Morales y Julio César Baldivieso, por ahora."
 ---
@@ -10,7 +10,7 @@ excerpt: "Evo Morales y Julio César Baldivieso, por ahora."
 
 Es el boliviano más famoso, de lejos. 
 
-https://youtu.be/I-sMbDM3N4I?si=f-xzKeag3tznDS82&t=3748
+En [este video de 2026](https://youtu.be/I-sMbDM3N4I?si=f-xzKeag3tznDS82&t=3748), es filmado haciendo 1007 abdóminales.
 
 ### Julio César Baldivieso 
 
