@@ -12,7 +12,6 @@ excerpt: "Notas sobre libros."
 
 The book begins by providing a definition of aesthetics as a discipline: the study of sensory experiences. Reading that, I suspected that the rest of the book would outline or review that discipline's canonical bibliography. Instead, it discusses what are and aren’t the characteristics of what the author calls the aesthetic experience. That discussion, I believe, can be summarized into a definition of aesthetic experience that states as follows: <br>
 
-
 *An aesthetic experience is a pleasurable experience of paying open-ended and for-its-own-sake attention to an object seen as beautiful and its many surface (how shapes are depicted in the object) and scene (how depicted objects are placed in the depicted space) features, while at the same time paying attention to the qualities of this experience.* 
 
 I enjoyed reading a collection of cool quotes that I won’t reproduce and a brief discussion of the role of the critic. The idea is that a good critic directs our attention to things that we would not have noted otherwise, as paying attention to those features can transform our (potentially aesthetic) experience of perceiving a work of art.
