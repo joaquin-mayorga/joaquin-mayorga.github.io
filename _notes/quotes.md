@@ -6,6 +6,6 @@ layout: single
 excerpt: "Una colección de citas."
 ---
 
-No se te puede escapar la tortuga, hermano. 
+No se te puede escapar la tortuga, hermano. <br>
 *Diego Armando Maradona*
 
