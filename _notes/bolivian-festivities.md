@@ -27,7 +27,7 @@ Febrero o marzo: Carnaval
 
 14 de agosto: Virgen de Urkupiña
 -----
-
+- Sigo en busca de bibliografía relevante. 
 
 1 y 2 de noviembre: Todos Santos
 -----
