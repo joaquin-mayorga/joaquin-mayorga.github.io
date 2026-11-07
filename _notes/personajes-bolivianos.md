@@ -10,7 +10,9 @@ excerpt: "Evo Morales y Julio César Baldivieso, por ahora."
 
 Es el boliviano más famoso, de lejos. 
 
+https://youtu.be/I-sMbDM3N4I?si=f-xzKeag3tznDS82&t=3748
+
 ### Julio César Baldivieso 
 
-Es futbolista y entrenador boliviano con la carrera, a mi juicio, más interesante 
+Es futbolista y entrenador boliviano con la carrera, emho, más interesante. 
 
