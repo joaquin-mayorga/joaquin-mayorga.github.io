@@ -10,4 +10,6 @@ excerpt: "Anotaciones sobre conceptos."
 
 *Structural transformation* 
 
+Una interesante [aplicación](https://brunomacaes.substack.com/p/a-theory-of-american-politics) del concepto de ello/yo de psicología. 
+
 
