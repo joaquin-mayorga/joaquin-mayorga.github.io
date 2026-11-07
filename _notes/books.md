@@ -6,4 +6,4 @@ layout: single
 excerpt: "Algunos libros leídos pre 2026"
 ---
 
-David Reich, *Who We Are and How We Got Here* 
+### David Reich, *Who We Are and How We Got Here* 
