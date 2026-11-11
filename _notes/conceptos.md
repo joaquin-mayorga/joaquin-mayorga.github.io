@@ -13,3 +13,5 @@ excerpt: "Anotaciones sobre conceptos."
 Una interesante [aplicación](https://brunomacaes.substack.com/p/a-theory-of-american-politics) del concepto de ello/yo de psicología. 
 
 *Presidencialismo* 
+
+*Moneda de reserva global* 
