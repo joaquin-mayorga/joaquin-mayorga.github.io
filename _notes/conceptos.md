@@ -15,3 +15,5 @@ Una interesante [aplicación](https://brunomacaes.substack.com/p/a-theory-of-ame
 *Presidencialismo* 
 
 *Moneda de reserva global* 
+
+*Cuál es el valor asintótico del bitcoin?*
