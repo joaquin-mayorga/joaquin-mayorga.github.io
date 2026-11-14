@@ -37,7 +37,8 @@ Febrero o marzo: Carnaval
     - Todos Santos coincide con el comienzo de las lluvias en Bolivia según el calendario agrícola. En el Ukhu Pacha, el calendario es diametralmente opuesto al del Kay Pacha, y es en Todos Santos cuando los difuntos suben al Kay Pacha a disfrutar su cosecha.
 - Aquí está un [post de blog](https://projectes.fundesplai.org/cochabambasantjoandespi/2014/11/25/todo-santos-en-bolivia/) más detallado.
 - Referencias útiles:
-    - Este [artículo](https://revistas.ucm.es/index.php/REAA/en/article/view/REAA0606120163A) se ve prometedor. Y esta es [otra](https://www.scienceopen.com/book?vid=d1cc3732-defa-4ebe-b75e-0f7924f30402) fuente relevante que también aplica para el carnaval. 
+    - Este [artículo](https://revistas.ucm.es/index.php/REAA/en/article/view/REAA0606120163A) se ve prometedor (spoiler: no cumplió la promesa). Una idea es que las mesas del Altiplano tienen que tener cañas de azúcar, para dar combustible a las almas cuando llegan a visitar y cuando regresan a su región. Tiene testimonios de altiplánicos que no albergan la idea del Janaj/Kay/Ukhu Pacha. 
+    - Y esta es [otra](https://www.scienceopen.com/book?vid=d1cc3732-defa-4ebe-b75e-0f7924f30402) fuente relevante que también aplica para el carnaval. 
 - Preguntas: 
     - Cuáles son los orígenes europeos y pre-colombinos de Todos Santos?
     - Cuáles son los parecidos entre Todos Santos en Bolivia y Día de Muertos en México?
