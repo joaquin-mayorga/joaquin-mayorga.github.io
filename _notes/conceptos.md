@@ -17,3 +17,5 @@ Una interesante [aplicación](https://brunomacaes.substack.com/p/a-theory-of-ame
 *Moneda de reserva global* 
 
 *Cuál es el valor asintótico del bitcoin?*
+
+*Las letras de Ricardo Arjona*. Comentadas frecuentemente. Citadas? Rara vez. 
