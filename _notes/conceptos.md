@@ -19,3 +19,6 @@ Una interesante [aplicación](https://brunomacaes.substack.com/p/a-theory-of-ame
 *Cuál es el valor asintótico del bitcoin?*
 
 *Las letras de Ricardo Arjona*. Comentadas frecuentemente. Citadas? Rara vez. 
+
+*Colapso demográfico* <br>
+[Una presentación interesante](https://www.youtube.com/watch?v=pyazJh6-6fY). 
