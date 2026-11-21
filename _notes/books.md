@@ -6,7 +6,7 @@ layout: single
 excerpt: "Algunos libros leídos antes de 2026"
 ---
 
-### Herbert S. Klein, *Concise History of Bolivia* 
+### Herbert S. Klein, *Historia mínima de Bolivia* 
 - Recuentos con potencial de novedad: arte, criollos y economía, la Guerra del Chaco. 
 
 ### David Reich, *Who We Are and How We Got Here* 
