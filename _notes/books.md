@@ -3,7 +3,7 @@ title: "Libros leídos pre-2026"
 date: 2026-03-09
 last_modified_at: 2026-03-09
 layout: single
-excerpt: "Algunos libros leídos pre 2026"
+excerpt: "Algunos libros leídos antes de 2026"
 ---
 
 ### Herbert S. Klein, *Concise History of Bolivia* 
