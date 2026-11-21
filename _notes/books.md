@@ -7,6 +7,7 @@ excerpt: "Algunos libros leídos pre 2026"
 ---
 
 ### Herbert S. Klein, *Concise History of Bolivia* 
+- Recuentos con potencial de novedad: arte, criollos y economía, la Guerra del Chaco. 
 
 ### David Reich, *Who We Are and How We Got Here* 
 - How to identify "genetic distance"
